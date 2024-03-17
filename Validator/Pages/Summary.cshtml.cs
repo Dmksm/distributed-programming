@@ -36,6 +36,5 @@ public class SummaryModel : PageModel
             Rank = text.Rank;
             Similarity = text.Similarity;
         }
-        //TODO: проинициализировать свойства Rank и Similarity значениями из БД
     }
 }
