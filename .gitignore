@@ -151,6 +151,11 @@ coverage*.info
 *.coverage
 *.coveragexml
 
+.idea
+Validator/.idea
+Validator/obj
+Validator/bin
+
 # NCrunch
 _NCrunch_*
 .*crunch*.local.xml
